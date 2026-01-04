@@ -1,0 +1,8 @@
+{
+  "name": "CloudMine AI Pro",
+  "description": "An advanced AI-powered cloud mining management platform with real-time analytics, automated bot optimization, and deep crypto market intelligence.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
